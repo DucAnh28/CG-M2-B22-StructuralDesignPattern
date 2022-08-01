@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CG-M2-B22-StructuralDesignPattern.iml" filepath="$PROJECT_DIR$/CG-M2-B22-StructuralDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1-Proxy/TH1-Proxy.iml" filepath="$PROJECT_DIR$/TH1-Proxy/TH1-Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH2-Facade/TH2-Facade.iml" filepath="$PROJECT_DIR$/TH2-Facade/TH2-Facade.iml" />
     </modules>
   </component>
 </project>
